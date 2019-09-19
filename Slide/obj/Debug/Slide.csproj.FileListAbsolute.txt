@@ -1,0 +1,10 @@
+D:\NET FRAMEWORK\AppG2\Slide\obj\Debug\Slide.csprojAssemblyReference.cache
+D:\NET FRAMEWORK\AppG2\Slide\obj\Debug\Slide.Form1.resources
+D:\NET FRAMEWORK\AppG2\Slide\obj\Debug\Slide.Properties.Resources.resources
+D:\NET FRAMEWORK\AppG2\Slide\obj\Debug\Slide.csproj.GenerateResource.cache
+D:\NET FRAMEWORK\AppG2\Slide\obj\Debug\Slide.csproj.CoreCompileInputs.cache
+D:\NET FRAMEWORK\AppG2\Slide\bin\Debug\Slide.exe.config
+D:\NET FRAMEWORK\AppG2\Slide\bin\Debug\Slide.exe
+D:\NET FRAMEWORK\AppG2\Slide\bin\Debug\Slide.pdb
+D:\NET FRAMEWORK\AppG2\Slide\obj\Debug\Slide.exe
+D:\NET FRAMEWORK\AppG2\Slide\obj\Debug\Slide.pdb
